@@ -69,7 +69,7 @@ power1 <- power %>%
 
 
 ### Make a histogram of Global Active Power
-png("my_figures/plot1.png")
+png("plot1.png")
 with(power1, {
   hist(
     Global_active_power,

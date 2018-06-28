@@ -69,7 +69,7 @@ power1 <- power %>%
 
 #### 4 plots
 
-png("my_figures/plot4.png")
+png("plot4.png")
 
 par(mfrow = c(2, 2))
 
